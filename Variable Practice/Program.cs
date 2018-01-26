@@ -21,7 +21,7 @@ namespace Variable_Practice
 
 
             Console.WriteLine("What is your name?");
-            // 方法 “WriteLine” 指的是在这一行显示完内容后直接跳到下一行
+            // 方法 “WriteLine” 指的是在这一行显示完内容后直接跳到下一行123
             Console.Write("Type your first name: ");
             // 方法 “Write” 指的是显示括号中的内容但是不跳到下一行，需要按回车
             string myFirstName;
